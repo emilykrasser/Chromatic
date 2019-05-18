@@ -1,0 +1,65 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/*.page-header {
+    background-image: url("Background.png");
+    background-size:auto;
+    background-attachment: fixed;
+}*/
+
+body {
+    background-image: url("Background.png");
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+.page-header {
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.main-content {
+    background-color: whitesmoke;
+}
+
+/*@font-face {
+    font-family: pixel;
+    src: url(pocket_memesbruh03.ttf);
+}
+
+h1 {
+    font-family: pixel;
+}
+
+h2 {
+    font-family: pixel;
+    color: rgb(49, 40, 55);
+}*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: rgb(49, 40, 55);
+}
+
+.main-content {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        font-weight: normal;
+        color: rgb(49, 40, 55);
+    }
+}
