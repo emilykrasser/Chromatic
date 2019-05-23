@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CSS385_FinalProject",
+"dataUrl": "Chromatic.data.unityweb",
+"asmCodeUrl": "Chromatic.asm.code.unityweb",
+"asmMemoryUrl": "Chromatic.asm.memory.unityweb",
+"asmFrameworkUrl": "Chromatic.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
