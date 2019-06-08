@@ -1,22 +1,22 @@
-## Alpha Playtesting Update (5/17/19 - 5/23/19)
+## Alpha Playtesting Update (5/24/19 - 5/30/19)
 
-It is the last few weeks of the school quarter, therefore we don’t have the time we would like to spend to make Chromatic as polished as we would like. However, the mechanics have been tinkered enough with that we have a basis for the gameplay. Since it is a story game, having a well functioning mechanism for changing the color of objects based on the completion of specific events is a priority. So, although we want the game to look clean and pretty, we knew this past week that making it look pretty is not the main goal. 
+After the beta test in week 2, we decided that in week 3 we had various aspects of Chromatic that we wanted to fine tune, polish, and make additions to. The following is what each of us worked on towards the development of Chromatic:
 
-With that, we completed the following items the past week:
-- Color changing of objects through the game manager
-- Fully functioning parallax art style 
-- Outlining design goals for the prettiness of the game
-- Structuring one of the puzzles to take input for a passcode
+Emily
+- Hints: During the beta playtest, we realized that the hints we provided for the time capsule puzzle (in which the hints helped players figure out what the passcode to the time capsule is) were a short-lived pop up. The shortness of the popup made the hints confusing and frustrated players. Now the hints are a pop up that is toggled by pressing ‘e’ and closes by pressing ‘e’ again. The hints can be revisited if needed.
+- NPC Dialogue: There was an error with one of the NPC character’s dialogue display. The NPC wasn’t relevant to finishing the time capsule puzzle that we allowed players to play during the beta, but we wanted the interaction to still be fluid and entertaining. The dialogue now displays as intended. 
+- Red level: the level that provides the color red to the player requires players to collect items for an NPC. This level was not fully functioning for the beta. We knew that we wanted all the levels to be moderately functional for the alpha test. During development, we ran into an error with the decrementing of the puzzle pieces. The error has since been fixed and the level functions as intended. 
+- Yellow level: the yellow level is a maze where the player is required to find a object by navigating a sewer. During the digital prototyping phase, Sufiah layed out how the maze is navigated and the correct entrances to enter to make it to the object. Emily created the sewer maze with the sewer entrances laid out during prototyping. 
+- NPC doesn’t work yet, graphics, art
+- Artistic Boundaries
+- Dialogue corrections
 
-Things we still need to do:
-Structure and design the scenes for the other puzzle levels (we have the prototypes completed from the 1st week!)
-- Create design elements that follow our pixel art style
-- Animate the main menu to fade into the game
-- Animate the color change to not be as jarring
-- Create the intro story scene
-- Adjust dialogue to suite design changes
-
-We could probably add to that list if we wanted to include our stretch goals. The process of creating Chromatic has been iterative. Ideas that were discussed during the paper prototype phase have been put aside as concepts that we acknowledge we will not have the time to implement, albeit they are really cool ideas. Ultimately we want a game that has the most achievable scope considering the amount of time we have for the assignment, while also being a game that conveys the story as passionately as we feel about Chromatic. 
+Kayla
+- Graphics: during development thus far, we knew that we wanted a pixel art style for Chromatic. The difficulty was creating assets sufficient enough to achieve our art. Thus, we decided to search for images from artists, with no luck at finding anything that suited our needs. Having 5 weeks, no pixel art experience, and having to have a mechanically sound and fully functioning game resulting in a bit of a speed bump. We knew that Chromatic would be dominintly an artistic story based game. Having art that met our visual goals and having a script that aligned with our story and characters was an importance we set early on. Fortunately, Kayla was able to find free art that aligned with our visual direction from the artists “edermunizz” and “ansimuz” on https://itch.io. We decided to use the forest art style for the blue level and the cyber one for the red level. The following are the links to the free assets we downloaded and are utilizing:
+* https://edermunizz.itch.io/free-pixel-art-forest
+* https://ansimuz.itch.io/cyberpunk-street-environment
+Despite finding the art, we still had editing work that needed to be done to the art in order to make it align with our story line. Greyscale versions of each one were created and certain color aspects were added and/or removed in photoshop to suit each level. 
+- Adjustments: importing the image assets and placing them correctly in order to implement the parallax art style correctly required some effort. Bet
 
 Photos this week:
 ![alt text](/Images/image0.jpg)
