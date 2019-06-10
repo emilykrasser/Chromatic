@@ -18,6 +18,22 @@ body {
 .page-header {
     background-image: none;
     background-color: rgba(0, 0, 0, 0);
+
+    a:link {
+        color: rgb(49, 40, 55);
+    }
+
+    a:visited {
+        color: rgb(49, 40, 55);
+    }
+
+    a:hover {
+        color: rgb(255, 20, 147);
+    }
+
+    a:active {
+        color: rgb(255, 20, 147);
+    }
 }
 
 .main-content {
@@ -48,22 +64,6 @@ h6 {
     margin-bottom: 1rem;
     font-weight: normal;
     color: rgb(49, 40, 55);
-}
-
-a:link {
-    color: rgb(49, 40, 55);
-}
-
-a:visited {
-    color: rgb(49, 40, 55);
-}
-
-a:hover {
-    color: rgb(255, 20, 147);
-}
-
-a:active {
-    color: rgb(255, 20, 147);
 }
 
 .main-content {
