@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="UnityEngine" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenu">
+			<method name="onControlsButtonClick"/>
+			<method name="PlayGame"/>
+			<method name="onBackButtonClick"/>
+			<method name="onBackButtonClick"/>
+		</type>
+		<type fullname="AudioManager">
+			<method name="SliderValueChangeCheck"/>
+		</type>
+	</assembly>
+</linker>
