@@ -23,4 +23,6 @@ We're a group of peeps and we like to make games.
 
 [Final Source Code: 6/9/2019](https://emilykrasser.github.io/Chromatic/SourceCode/)
 
+[Resources Consulted](https://emilykrasser.github.io/Chromatic/ResourceList/)
+
 [Final Game Presentation](https://docs.google.com/presentation/d/11LwOlu9JtxvXPrJWRxTnw0Drh29BH_AJ03oah1mvW6A/edit#slide=id.p)
