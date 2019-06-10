@@ -4,9 +4,8 @@
 
 Made during Spring quarter 2019 in CSS 385.
 
+### Final Game Trailer
 [![Final Game Trailer](/Images/TrailerPlaceholder.png)](https://www.youtube.com/watch?time_continue=53&v=Cc4VpJfhX9Q)
-
-[Final Game Trailer](https://www.youtube.com/watch?time_continue=53&v=Cc4VpJfhX9Q)
 
 ## Team Sonder
 We're a group of peeps and we like to make games. The team members are Emily Krasser, Kayla Sprague, and Sufiah Ahmad. 
