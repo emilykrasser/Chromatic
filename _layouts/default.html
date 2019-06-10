@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
-    <style type="text/css">
-        .project-name:hover {
-            color: pink;
-        }
-    </style>
-
     {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
@@ -26,7 +20,7 @@
 </head>
 <body>
     <header class="page-header" role="banner">
-        <h1 class="project-name"><a href="https://emilykrasser.github.io/Chromatic/">The Making of Chromatic</a></h1>
+        <h1 class="project-name"><a href="https://emilykrasser.github.io/Chromatic/" style="color: rgb(49, 40, 55)">The Making of Chromatic</a></h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
         <a href="https://emilykrasser.github.io/Chromatic/FinalPlayTest/index.html" class="btn">Play Chromatic!</a>
