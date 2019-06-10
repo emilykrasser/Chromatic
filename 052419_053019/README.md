@@ -21,3 +21,5 @@ Despite finding the art, we still had editing work that needed to be done to the
 Photos this week:
 ![alt text](/Images/image0.jpg)
 ![alt text](/Images/image1.jpg)
+![alt text](/Images/image2.jpg)
+![alt text](/Images/image3.jpg)
