@@ -36,6 +36,22 @@ h1 {
 h2 {
     font-family: pixel;
     color: rgb(49, 40, 55);
+}
+
+a:link {
+    color: rgb(49, 40, 55);
+}
+
+a:visited {
+    color: rgb(49, 40, 55);
+}
+
+a:hover {
+    color: rgb(255, 20, 147);
+}
+
+a:active {
+    color: rgb(255, 20, 147);
 }*/
 
 h1,
@@ -62,20 +78,21 @@ h6 {
         font-weight: normal;
         color: rgb(49, 40, 55);
     }
+
+    a:link {
+        color: rgb(255, 20, 147);
+    }
+
+    a:visited {
+        color: rgb(49, 40, 55);
+    }
+
+    a:hover {
+        rgb(255, 192, 203)
+    }
+
+    a:active {
+        color: rgb(255, 20, 147);
+    }
 }
 
-a:link {
-    color: rgb(49, 40, 55);
-}
-
-a:visited {
-    color: rgb(49, 40, 55);
-}
-
-a:hover {
-    color: rgb(255, 20, 147);
-}
-
-a:active {
-    color: rgb(255, 20, 147);
-}
