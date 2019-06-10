@@ -4,6 +4,8 @@
 
 Made during Spring quarter 2019 in CSS 385.
 
+[![Final Game Trailer](/Images/TrailerPlaceholder.png)](https://www.youtube.com/watch?time_continue=53&v=Cc4VpJfhX9Q)
+
 [Final Game Trailer](https://www.youtube.com/watch?time_continue=53&v=Cc4VpJfhX9Q)
 
 ## Team Sonder
