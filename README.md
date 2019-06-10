@@ -5,7 +5,7 @@
 Made during Spring quarter 2019 in CSS 385.
 
 ## Team Sonder
-We're a group of peeps and we like to make games.
+We're a group of peeps and we like to make games. The team members are Emily Krasser, Kayla Sprague, and Sufiah Ahmad. 
 
 ## Updates
 
@@ -16,6 +16,8 @@ We're a group of peeps and we like to make games.
 [Alpha Playtesting: 5/17/19 - 5/23/19](https://emilykrasser.github.io/Chromatic/051719_052319/)
 
 [Beta Playtesting: 5/24/19 - 5/30/19](https://emilykrasser.github.io/Chromatic/052419_053019/)
+
+[Post-Mortem Presentation](https://docs.google.com/presentation/d/1v9FMG3qSaeRqeJ3svDRMsAavJs5qS7EBGS8PweUoTHU/edit?usp=sharing)
 
 [Official Playtest Notes](https://emilykrasser.github.io/Chromatic/PlaytestNotes/)
 
