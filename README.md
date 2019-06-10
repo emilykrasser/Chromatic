@@ -17,6 +17,10 @@ We're a group of peeps and we like to make games.
 
 [Beta Playtesting: 5/24/19 - 5/30/19](https://emilykrasser.github.io/Chromatic/052419_053019/)
 
+[Official Playtest Notes](https://emilykrasser.github.io/Chromatic/PlaytestNotes/)
+
 [Final Game: 6/9/2019](https://emilykrasser.github.io/Chromatic/FinalPlayTest/index.html)
 
 [Final Source Code: 6/9/2019](https://emilykrasser.github.io/Chromatic/SourceCode/)
+
+[Final Game Presentation](https://docs.google.com/presentation/d/11LwOlu9JtxvXPrJWRxTnw0Drh29BH_AJ03oah1mvW6A/edit#slide=id.p)
