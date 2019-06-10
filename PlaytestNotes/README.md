@@ -1,41 +1,39 @@
-## Alpha Playtesting Update (5/24/19 - 5/30/19)
-
-Alpha Playtests
+##Alpha Playtests
 General Notes:
-Show a prompt to “press e” on top of interactable objects.
-Player character “slides” a little when walking.
-Add indicator to pick up capsule.
-If you click on the time capsule puzzle, then you cannot exit out of it.
-Not easy to know what to do.
-The escape button should do something.
-Beta Playtests
+* Show a prompt to “press e” on top of interactable objects.
+* Player character “slides” a little when walking.
+* Add indicator to pick up capsule.
+* If you click on the time capsule puzzle, then you cannot exit out of it.
+* Not easy to know what to do.
+* The escape button should do something.
+##Beta Playtests
 Player feedback:
-Change the “# of legs on an octopus” to “# of tentacles on an octopus”
-Way to lead the player back to the beginning.
-Change Dragon lady’s interaction after the puzzle.
-Walking is stylish. (Multiple people have said this)
-Final Playtests
-Name: Leon Alschitz
+* Change the “# of legs on an octopus” to “# of tentacles on an octopus”
+* Way to lead the player back to the beginning.
+* Change Dragon lady’s interaction after the puzzle.
+* Walking is stylish. (Multiple people have said this)
+##Final Playtests
+1. Name: Leon Alschitz
 Time Taken: Around 10 minutes
 Favourite Puzzle: 1st puzzle (Passcode)
 Favourite Character: None
 			Favourite part of the game was the art.
 Suggestions/Notes while playing the game: 
-Person still slides. Reduce the speed of walking, or increase the speed of animation.
-Should just have one interact button. 
-Invisible walls are very bad… 
-It would be cool if the lights started out as white, and the light got yellow meanwhile the post would get brown. 
-Don’t have the camera disappear even before the character reaches the bottom.
-If you have 2 portals left and right, then show the portals have different colors.
-“The lamp posts are the same from the beginning :(“.
-ESC should show a menu
-Have the portals play a different sound effect if you want to go through the end.
-The walking anim. slides and doesn’t match the distance travelled. 
-Have a sound clip for walking.
-Make the last puzzle more harder and complicated. More portals is not the answer. Maybe a certain order?
-From player’s own thoughts: Only puzzle to get stuck on was “Don’t make me count to…”
-The art was cool, but certain color did not appropriately change. The puzzle is not themed around the color. Ave the records be filled with “Blues music”.
-Add sound effects when characters talk.
+* Person still slides. Reduce the speed of walking, or increase the speed of animation.
+* Should just have one interact button. 
+* Invisible walls are very bad… 
+* It would be cool if the lights started out as white, and the light got yellow meanwhile the post would get brown. 
+* Don’t have the camera disappear even before the character reaches the bottom.
+* If you have 2 portals left and right, then show the portals have different colors.
+* “The lamp posts are the same from the beginning :(“.
+* ESC should show a menu
+* Have the portals play a different sound effect if you want to go through the end.
+* The walking anim. slides and doesn’t match the distance travelled. 
+* Have a sound clip for walking.
+* Make the last puzzle more harder and complicated. More portals is not the answer. Maybe a certain order?
+* From player’s own thoughts: Only puzzle to get stuck on was “Don’t make me count to…”
+* The art was cool, but certain color did not appropriately change. The puzzle is not themed around the color. Hve the records be filled with “Blues music”.
+* Add sound effects when characters talk.
 
 2.  	Name: Sally El-Housieny
 Time Taken: 10 minutes 30 seconds
