@@ -29,16 +29,24 @@ body {
     src: url(pocket_memesbruh03.ttf);
 }
 
+a:link {
+    color: rgb(49, 40, 55);
+}
+
+a:visited {
+    color: rgb(49, 40, 55);
+}
+
 a:hover {
+    color: rgb(255, 20, 147);
+}
+
+a:active {
     color: rgb(255, 20, 147);
 }
 
 h1 {
     font-family: pixel;
-}
-
-h1:hover {
-    color: rgb(255, 20, 147);
 }
 
 h2 {
