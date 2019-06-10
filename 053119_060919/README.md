@@ -1,6 +1,17 @@
 ## Final Update (5/31/19 - 6/9/19)
 
+### Team Reflection
+
+
+### Trailer
 [![Final Game Trailer](/Images/TrailerPlaceholder.png)](https://www.youtube.com/watch?time_continue=53&v=Cc4VpJfhX9Q)
+
+### Screenshots
+![alt text](/Images/ScreenShot1.PNG)
+![alt text](/Images/ScreenShot2.PNG)
+![alt text](/Images/ScreenShot3.PNG)
+![alt text](/Images/ScreenShot4.PNG)
+![alt text](/Images/ScreenShot5.PNG)
 
 [Final Game](https://emilykrasser.github.io/Chromatic/FinalPlayTest/index.html)
 
